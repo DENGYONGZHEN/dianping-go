@@ -1,4 +1,4 @@
-package handler
+package api
 
 import "hm-dianping-go/internal/usecase/user"
 
